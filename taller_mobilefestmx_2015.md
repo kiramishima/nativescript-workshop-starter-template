@@ -1,5 +1,8 @@
 # Pizza Developer
 
+### Objetivo
+Desarrollar un app que consuma un servicio Rest de la nube, desarrollaremos una aplicacion con un login, registro y pantalla principal para pedir una pizza :9
+
 ##### Requerimientos
 
   - Instalar NodeJS v0.12.4, si cuenta con una version superior a esta instalar nvm.
